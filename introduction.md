@@ -58,4 +58,4 @@ basic.showNumber(x)
 
 ## Congrats !
 
-Tu as réussis ! Maintenant tu peux passer à l'exercice suivant !
+Tu as réussis ! Maintenant tu peux passer à l'exercice [suivant](https://makecode.microbit.org/#tutorial:github:manumario0/informatique-branche/premier-jeu) !
