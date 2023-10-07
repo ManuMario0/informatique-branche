@@ -48,10 +48,11 @@ affichez les score et le gagnant à la fin de la partie.
 
 ## Félicitations !
 
-Il faut fêter la victoire du grand gagnant. Utilisez ... pour écrire votre propre mélodie
+Il faut fêter la victoire du grand gagnant. Utilisez ``||music:playMelody()||`` pour écrire votre propre mélodie
 et jouez là en même temps que l'annonce des scores pour récompenser le
 gagnant.
 
 ```blocks
-music.play(music.stringPlayable("- - - - - - - - ", 120), music.PlaybackMode.UntilDone)
+music.setVolume(127)
+music.playMelody("", 120)
 ```
