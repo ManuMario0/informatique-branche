@@ -36,8 +36,9 @@ le bloc ``||loops:everyInterval()||``. On pensera
 Rappel : on a 1 seconde = 1000 ms.
 
 ```blocks
-loops.everyInterval(500, function () {
-})
+loops.everyInterval(500, function () {})
+while(0<0)
+basic.pause(100)
 ```
 
 ## Étape 4
