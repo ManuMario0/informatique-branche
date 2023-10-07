@@ -23,7 +23,7 @@ y = y+1
 
 ## Étape 2
 
-On va maintenant s'occuper du compte `àrebours. Pour cela on va aussi
+On va maintenant s'occuper du compte à rebours. Pour cela on va aussi
 utiliser une variable. Stockez dans une variable le temps de chaque partie,
 pour notre jeu il faut mettre 10 secondes.
 
