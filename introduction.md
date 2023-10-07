@@ -1,3 +1,7 @@
+```template
+//
+```
+
 # Informatique (un peu) branché - introduction
 
 ## Étape 1

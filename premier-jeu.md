@@ -1,3 +1,7 @@
+```template
+//
+```
+
 # Premier jeu
 
 ## Étape 1
