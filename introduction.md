@@ -2,11 +2,11 @@
 //
 ```
 
-# Informatique (un peu) branché - introduction
+# Informatique (un peu) branchée - introduction
 
 ## Étape 1
 
-A l'aide de l'instruction ``||basic:showLeds||``, dessiner une flèche pointant vers le haut.
+A l'aide de l'instruction ``||basic:showLeds||`` (montrer LED), dessinez une flèche pointant vers le haut.
 ```blocks
 basic.showLeds(`
     . . . . .
@@ -28,8 +28,8 @@ input.onButtonPressed(Button.A, function () {})
 
 ## Étape 3
 
-En utilisant l'instruction ``||basic:showArrow()||`` et une
-boucle adaptée dans ``||loops:for()||``, faites tourner tourner la flèche sur elle même
+En utilisant l'instruction ``||basic:showArrow()||`` (montrer flèche) et une
+boucle adaptée dans ``||loops:for()||`` (répéter 4 fois), faites tourner tourner la flèche sur elle même
 5 fois.
 
 ```blocks
