@@ -31,7 +31,7 @@ pour notre jeu il faut mettre 10 secondes.
 
 Tout est prêt, il ne reste plus qu'à combiner le tout ! On veut qu'à chaque
 seconde on diminue le compteur du temps. Pour faire ca, on peut utiliser
-le bloc ``||loops:everyInterval()||``. On pensera
+le bloc ``||loops:everyInterval()||`` (chaque 500ms). On pensera
 à changer le nombre de ms pour que cette action s'exécute chaque seconde.
 Rappel : on a 1 seconde = 1000 ms.
 
@@ -53,7 +53,7 @@ affichez les score et le gagnant à la fin de la partie.
 
 ## Félicitations !
 
-Il faut fêter la victoire du grand gagnant. Utilisez ``||music:playMelody()||`` pour écrire votre propre mélodie
+Il faut fêter la victoire du grand gagnant. Utilisez ``||music:playMelody()||`` (jouer la mélodie) pour écrire votre propre mélodie
 et jouez là en même temps que l'annonce des scores pour récompenser le
 gagnant.
 
